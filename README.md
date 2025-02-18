@@ -233,6 +233,8 @@ cmd 命令行输入 `ping zhjw.qfnu.edu.cn`
 
 ## 🔗 友情链接
 
+[QFNUCourseSelector Pro](https://github.com/W1ndys/QFNUCourseSelector/issues/11)
+
 ## 📄 许可证
 
 本项目采用 [MIT 许可证](./LICENSE)
